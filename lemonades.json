@@ -1,19 +1,15 @@
 {
-    "datetime": "1655006999",
-    "error": false,
-    "filehash": "e9d9862178b8a5206db56121430f9b0e",
-    "filename": "PixelExperience_Plus_lemonades-12.1-20220615-0949-OFFICIAL.zip",
-    "id": "60fe29ea7a0a0fffedced8d9cc1318473c7e7bd02f292e124428b9b3e9a0eb67",
-    "maintainers": [
-        {
-            "github_username": "schqiushui",
-            "main_maintainer": false,
-            "name": "schqiushui"
-        }
-    ],
-    "news_url": "https://t.me/PixelExperience",
-    "size": "2006077121",
-    "url": "https://github.com/PixelExperiencePlus/ota/releases/download/20220615-0949/PixelExperience_Plus_lemonades-12.1-20220615-0949-OFFICIAL.zip",
-    "version": "twelve-plus",
-    "website_url": "https://github.com/PixelExperiencePlus/ota/releases"
+    "error":false,
+    "maintainers":[{"main_maintainer":false,"github_username":"schqiushui","name":"schqiushui"}],
+    "donate_url":"",
+    "website_url":"https://github.com/PixelExperiencePlus/ota/releases",
+    "datetime":1657020295,
+    "filename":"PixelExperience_Plus_lemonades-12.1-20220705-1444-OFFICIAL.zip",
+    "id":"6f155f5364ad2461e6d71d663142e70b758de8c3",
+    "size":2026506818,
+    "url":"https://github.com/PixelExperiencePlus/ota/releases/download/20220705-1444/PixelExperience_Plus_lemonades-12.1-20220705-1444-OFFICIAL.zip",
+    "version":"twelve-plus",
+    "filehash":"3f223b3c327a91a4ad9d440a63c98b33",
+    "is_incremental":false,
+    "has_incremental":false
 }
