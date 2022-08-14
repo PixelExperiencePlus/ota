@@ -5,7 +5,11 @@ WARNING!!!
 
 
 Changelog:
-- 22/07/07:
+- August 14,2022:
+	1.August security patch.
+	2.Other cleanup and improvements.
+
+- July 07,2022:
 	1.July security patch.
 	2.Add support local update.
 	3.Other cleanup and improvements.
