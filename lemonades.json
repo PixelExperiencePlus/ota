@@ -1,0 +1,16 @@
+{
+    "error":false,
+    "maintainers":[{"main_maintainer":false,"github_username":"schqiushui","name":"古塵"}],
+    "donate_url":"",
+    "website_url":"https://github.com/PixelExperiencePlus",
+    "news_url": "https://t.me/PixelExperience",
+    "datetime":1680441420,
+    "filename":"PixelExperience_Plus_lemonades-13.0-20230402-1317-OFFICIAL.zip",
+    "id":"f50cdd9b3fd5bef1dde6a57e6a27bdd271fae9d1",
+    "size":2161655730,
+    "filehash":"358e3a7468ba60c3718c95ce7651e210",
+    "version":"thirteen-plus",
+    "url":"https://github.com/PixelExperiencePlus/ota/releases/download/20230402-1317/PixelExperience_Plus_lemonades-13.0-20230402-1317-OFFICIAL.zip",
+    "is_incremental":false,
+    "has_incremental":false
+}
