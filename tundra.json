@@ -1,0 +1,16 @@
+{
+    "error":false,
+    "maintainers":[{"main_maintainer":false,"github_username":"schqiushui","name":"古塵"}],
+    "donate_url":"",
+    "website_url":"https://github.com/PixelExperiencePlus",
+    "news_url": "https://t.me/PixelExperience",
+    "datetime":1682346480,
+    "filename":"PixelExperience_Plus_tundra-13.0-20230424-1428-OFFICIAL.zip",
+    "id":"b00049f0dc48dd54bd65fd560c144d78806bc0a3",
+    "size":1890802245,
+    "filehash":"2e499d74b1d48ea6a8f139a01c4cf6d6",
+    "version":"thirteen-plus",
+    "url":"https://github.com/PixelExperiencePlus/ota/releases/download/20230424-1428/PixelExperience_Plus_tundra-13.0-20230424-1428-OFFICIAL.zip",
+    "is_incremental":false,
+    "has_incremental":false
+}
