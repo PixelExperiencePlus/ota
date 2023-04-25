@@ -5,6 +5,9 @@ WARNING!!!
 
 
 Changelog:
+- April 25,2023:
+	1.mirror tweaks.
+
 - April 24,2023:
 	1.first build.
 
