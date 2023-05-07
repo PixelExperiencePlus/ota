@@ -5,6 +5,10 @@ WARNING!!!
 
 
 Changelog:
+- May 7,2023:
+1. fix unlocking fps 120Hz of 'Honor of Kings'
+2. remove Aperture
+
 - May 5,2023:
 1. May security patch
 2. Auto brightness adjustment
