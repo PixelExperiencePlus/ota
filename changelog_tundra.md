@@ -5,6 +5,10 @@ WARNING!!!
 
 
 Changelog:
+- May 14,2023:
+1. Fix slow motion, there is a problem with 960 frames, it cannot be saved but it has been saved successfully
+2. Add ifaa support(Now Alipay fingerprint payment works well)
+
 - May 7,2023:
 1. fix unlocking fps 120Hz of 'Honor of Kings'
 2. remove Aperture
