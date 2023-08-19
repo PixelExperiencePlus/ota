@@ -5,6 +5,11 @@ WARNING!!!
 
 
 Changelog:
+
+- Aug 19,2023:
+1. August Security Patch
+2. A13base
+
 - May 14,2023:
 1. Fix slow motion, there is a problem with 960 frames, it cannot be saved but it has been saved successfully
 2. Add ifaa support(Now Alipay fingerprint payment works well)
