@@ -6,6 +6,10 @@ WARNING!!!
 
 Changelog:
 
+- Aug 26,2023:
+1. cleanup and update
+2. add ssg I/O scheduler(need update kernel)
+
 - Aug 19,2023:
 1. August Security Patch
 2. A13base
