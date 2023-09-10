@@ -6,6 +6,12 @@ WARNING!!!
 
 Changelog:
 
+- Sep 10,2023:
+1. Adjust autobrightness
+2. Adjust high brightness mode (HBM) level
+3. add more vibration patterns
+4. Update kernel for FOD brightness level
+
 - Aug 26,2023:
 1. cleanup and update
 2. add ssg I/O scheduler(need update kernel)
