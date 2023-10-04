@@ -6,6 +6,14 @@ WARNING!!!
 
 Changelog:
 
+- Oct 4,2023:
+1. Sync radio and ims props with stock
+2. Sync misc props stuff with stock
+3. Use CarrierConfig from motorola and remove moto stuff
+4. Sync more media and audio feature props with stock
+5. Cleanup GameSpace notification modes
+6. Update blobs from MMI-T1SJS33.117-30-3-2
+
 - Sep 25,2023:
 1. rebase on new kernel sources "MMI-T1SJS33.117-30-3-2" from motorola with LA.UM.9.14.r1-22400-LAHAINA.QSSI13.0 tag merged and features.
 2. September Security Patch.
