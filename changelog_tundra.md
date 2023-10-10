@@ -6,6 +6,12 @@ WARNING!!!
 
 Changelog:
 
+- Oct 10,2023:
+1. Update CarrierConfig from rtwo_retcn T1TR33.4-30-77.
+2. Finally fixup HighTouchPollingRate switching in Settings.(No need to flash the kernel additionally.)
+3. Update kernel with minor fixes.
+4. Other stuff.
+
 - Oct 4,2023:
 1. Sync radio and ims props with stock
 2. Sync misc props stuff with stock
