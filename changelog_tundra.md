@@ -7,6 +7,11 @@ WARNING!!!
 Changelog:
 
 - Oct 10,2023:
+1. Update blobs from tundra 13 T1SJS33.117-30-3-4
+2. Update kernel with clo tag 'LA.UM.9.14.r1-23100-LAHAINA.QSSI14.0'
+3. Other stuff.
+
+- Oct 10,2023:
 1. Update CarrierConfig from rtwo_retcn T1TR33.4-30-77.
 2. Finally fixup HighTouchPollingRate switching in Settings.(No need to flash the kernel additionally.)
 3. Update kernel with minor fixes.
