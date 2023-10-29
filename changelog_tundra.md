@@ -1,12 +1,21 @@
 WARNING!!!
 警告!!!
-- If you wanna keep root, please reinstall Magisk to inactive slot after OTA before rebooting device. 
+- If you wanna keep root with Magisk, please reinstall Magisk to inactive slot after OTA before rebooting device. 
 - 如果您安装了Magisk，请在更新完成后不要重启，并重新安装Magisk到另一个未使用的槽位后再重启。
+
+- If you wanna keep root with kernelsu, please use KernelFlasher install kernel to inactive slot after OTA before rebooting device. 
+- 如果您安装了KernelSU，请在更新完成后不要重启， 并使用KernelFlasher重新安装内核到另一个未使用的槽位后再重启。
+
 
 
 Changelog:
 
-- Oct 10,2023:
+- Oct 29,2023:
+1. Add doze display state supported
+2. Revert some stuff as before
+3. Update kernel with linux upstream to 5.4.259
+
+- Oct 22,2023:
 1. Update blobs from tundra 13 T1SJS33.117-30-3-4
 2. Update kernel with clo tag 'LA.UM.9.14.r1-23100-LAHAINA.QSSI14.0'
 3. Other stuff.
