@@ -3,12 +3,13 @@ WARNING!!!
 - If you wanna keep root with Magisk, please reinstall Magisk to inactive slot after OTA before rebooting device. 
 - 如果您安装了Magisk，请在更新完成后不要重启，并重新安装Magisk到另一个未使用的槽位后再重启。
 
-- If you wanna keep root with kernelsu, please use KernelFlasher install kernel to inactive slot after OTA before rebooting device. 
-- 如果您安装了KernelSU，请在更新完成后不要重启， 并使用KernelFlasher重新安装内核到另一个未使用的槽位后再重启。
-
-
 
 Changelog:
+
+- Nov 15,2023:
+1. Enable Quick Tap
+2. Enable display burn-in-protection in Ambient Display
+3. Update kernel with 'ASB-2023-11-05_11-5.4' tag
 
 - Oct 29,2023:
 1. Add doze display state supported
@@ -52,6 +53,7 @@ Changelog:
 - Aug 19,2023:
 1. August Security Patch
 2. A13base
+
 
 - May 14,2023:
 1. Fix slow motion, there is a problem with 960 frames, it cannot be saved but it has been saved successfully
