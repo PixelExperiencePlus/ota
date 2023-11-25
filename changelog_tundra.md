@@ -6,6 +6,10 @@ WARNING!!!
 
 Changelog:
 
+- Nov 25,2023:
+1. November Security Patch
+2. Update kernel with clo tag 'LA.UM.9.14.r1-23300-LAHAINA.QSSI14.0'
+
 - Nov 15,2023:
 1. Enable Quick Tap
 2. Enable display burn-in-protection in Ambient Display
